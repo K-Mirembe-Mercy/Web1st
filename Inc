@@ -1,0 +1,2 @@
+x = Input("what is your name, please?")
+print("Welcome,", x)
